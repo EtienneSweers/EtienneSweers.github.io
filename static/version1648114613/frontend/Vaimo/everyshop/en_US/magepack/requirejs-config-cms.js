@@ -1,0 +1,1 @@
+requirejs.config({bundles:{'magepack/bundle-cms':['jquery-ui-modules/datepicker','Vaimo_Badges/js/badge','Magento_PageBuilder/js/widget/show-on-hover','Magento_PageBuilder/js/events']}});
